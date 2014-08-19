@@ -1,7 +1,7 @@
 # License in Three Lines ![(LITL)](litl-license-logo.png)
 
-Copyright (year) (copyright holders).
-This work may be used freely as long as this notice is included.
+Copyright (year) (copyright holders).<br>
+This work may be used freely as long as this notice is included.<br>
 The work is provided "as is" without warranty, express or implied.
 
 ## History
