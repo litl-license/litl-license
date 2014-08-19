@@ -1,4 +1,4 @@
-# License in Three Lines ![(LITL)](litl-license-logo.png)
+# License in Three Lines ![(LITL)](litl-license-logo-32px.png)
 
 Copyright (year) (copyright holders).<br>
 This work may be used freely as long as this notice is included.<br>
