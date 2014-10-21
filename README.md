@@ -1,7 +1,5 @@
 # License in Three Lines ![(LITL)](litl-license-logo-32px.png)
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/litl-license/litl-license)
-
 Copyright (year) (copyright holders).<br>
 This work may be used freely as long as this notice is included.<br>
 The work is provided "as is" without warranty, express or implied.
@@ -22,6 +20,10 @@ usability and accessibility.
 
 [Stuart P. Bentley]: http://stuartpb.com
 [@stuartpb]: https://github.com/stuartpb
+
+## Contributing
+
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/litl-license/litl-license)
 
 ## Disclaimer
 
