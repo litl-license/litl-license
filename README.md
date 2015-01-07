@@ -1,4 +1,6 @@
-# License in Three Lines ![(LITL)](litl-license-logo-32px.png)
+# [License in Three Lines ![(LITL)](https://litl-license.org/logo.svg)][LITL]
+
+[LITL]: https://litl-license.org
 
 Copyright (year) (copyright holders).<br>
 This work may be used freely as long as this notice is included.<br>
