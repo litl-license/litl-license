@@ -24,7 +24,7 @@ usability and accessibility.
 [@stuartpb]: https://github.com/stuartpb
 
 Note that there is no year in the "copyright" line of the license: as the
-license effectively relinquishing the holder's reserved rights, such a
+license effectively relinquishes the holder's reserved rights, such a
 statement of effective date would be [superfluous][].
 
 [superfluous]: http://stackoverflow.com/questions/2390230/do-copyright-dates-need-to-be-updated
