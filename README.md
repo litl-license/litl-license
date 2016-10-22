@@ -2,7 +2,7 @@
 
 [LITL]: https://litl-license.org
 
-Copyright (year) (copyright holders).<br>
+Copyright (copyright holders).<br>
 This work may be used freely as long as this notice is included.<br>
 The work is provided "as is" without warranty, express or implied.
 
@@ -22,6 +22,12 @@ usability and accessibility.
 
 [Stuart P. Bentley]: http://stuartpb.com
 [@stuartpb]: https://github.com/stuartpb
+
+Note that there is no year in the "copyright" line of the license: as the
+license effectively relinquishing the holder's reserved rights, such a
+statement of effective date would be [superfluous][].
+
+[superfluous]: http://stackoverflow.com/questions/2390230/do-copyright-dates-need-to-be-updated
 
 ## Contributing
 
