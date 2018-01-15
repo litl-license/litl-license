@@ -31,7 +31,7 @@ statement of effective date would be [superfluous][].
 
 ## Contributing
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/litl-license/litl-license)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/litl-license/litl-license)
 
 ## Disclaimer
 
